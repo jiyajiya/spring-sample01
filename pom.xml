@@ -9,16 +9,13 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>minji.com</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>springboot-pilot1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>springboot-pilot1</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>jiyajiya_spring-sample01</sonar.projectKey>
-  <sonar.organization>jiyajiya-sample01</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<dependencies>
